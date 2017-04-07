@@ -1397,15 +1397,15 @@
 		-ms-user-select: none;
 		-webkit-user-select: none;
 		background: #1f2224;
-		bottom: -1em;
+		bottom: -1em; /*distance from bottom for header bar*/
 		height: 5em;
 		left: 0;
 		line-height: 4em;
-		padding: 0 1.5em;
+		padding: 0 1.5em; /*top and bottom are zero; left and right are 1.5*/
 		position: fixed;
 		user-select: none;
 		width: 100%;
-		z-index: 10002;
+		z-index: ;
 	}
 
 		body.loading #header {
