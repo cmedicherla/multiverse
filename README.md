@@ -10,5 +10,5 @@ Copyright © Chaitanya Medicherla, 2017
 ### TEMPLATE:
 This webpage is templated using Multiverse by HTML5 UP. <br>
 Please see corresponding README file for more information. <br>
-CREDIT: AJ - aj@lkn.io - @ajlkn - html5up.net
-I invite you to visit https://github.com/ramswaroop/photography.git
+CREDIT: AJ - aj@lkn.io - @ajlkn - html5up.net <br>
+I invite you to also visit https://github.com/ramswaroop/photography.git
